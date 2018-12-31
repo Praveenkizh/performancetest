@@ -1,0 +1,18 @@
+  
+[INFO] Executing test: ProjectTracker-Plan.jmx
+[INFO] Writing log file to: C:\Users\Admin\work\final_project\performanceTest\target\jmeter\logs\ProjectTracker-Plan.jmx.log
+[INFO] Creating summariser <summary>
+[INFO] Created the tree successfully using C:\Users\Admin\work\final_project\performanceTest\target\jmeter\testFiles\ProjectTracker-Plan.jmx
+[INFO] Starting the test @ Tue Jan 01 00:18:03 IST 2019 (1546282083007)
+[INFO] Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+[INFO] summary +      1 in 00:00:01 =    1.6/s Avg:   168 Min:   168 Max:   168 Err:     0 (0.00%) Active: 9 Started: 9 Finished: 0
+[INFO] summary +    389 in 00:00:26 =   14.7/s Avg:    23 Min:     4 Max:   588 Err:     0 (0.00%) Active: 1 Started: 390 Finished: 389
+[INFO] summary =    390 in 00:00:27 =   14.4/s Avg:    23 Min:     4 Max:   588 Err:     0 (0.00%)
+[INFO] summary +     10 in 00:00:03 =    3.3/s Avg:     8 Min:     8 Max:    12 Err:     0 (0.00%) Active: 0 Started: 400 Finished: 400
+[INFO] summary =    400 in 00:00:30 =   13.3/s Avg:    23 Min:     4 Max:   588 Err:     0 (0.00%)
+[INFO] Tidying up ...    @ Tue Jan 01 00:18:33 IST 2019 (1546282113200)
+[INFO] ... end of run
+[INFO] Completed Test: ProjectTracker-Plan.jmx
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
